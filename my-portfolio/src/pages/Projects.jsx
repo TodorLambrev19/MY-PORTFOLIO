@@ -4,36 +4,28 @@ import ProjectCard from '../components/ProjectCard';
 const Projects = () => {
   const projects = [
     {
-      title: 'E-Commerce Store',
+      title: 'VRAG CLOTHING-STORE',
       description: 'A modern e-commerce platform with shopping cart functionality and payment integration.',
-      image: 'https://image2url.com/r2/default/images/1772232738662-a6592240-33d0-49a9-808d-ef33f6e832cf.jpg',
+      image: 'https://i.postimg.cc/t4Cb4XN6/image.png',
       technologies: ['React', 'JavaScript', 'CSS'],
       github: 'https://github.com/TodorLambrev19/React-project-2025.git',
-      demo: 'https://snazzy-gaufre-b0032f.netlify.app/'
+      demo: 'https://spectacular-youtiao-1de4c5.netlify.app/'
     },
     {
       title: 'Weather App',
       description: 'A responsive weather application that fetches real-time weather data from an API.',
-      image: 'https://via.placeholder.com/400x250/8b5cf6/ffffff?text=Weather+App',
+      image: 'https://img.sanishtech.com/u/95d333f5ba6e7fab6bceeee789562d67.jpg',
       technologies: ['React', 'API', 'CSS'],
       github: 'https://github.com/TodorLambrev19/Weather-app.git',
-      demo: 'https://comfy-froyo-473414.netlify.app/'
-    },
-    {
-      title: 'Task Manager',
-      description: 'A productivity app for managing tasks with drag-and-drop functionality.',
-      image: 'https://via.placeholder.com/400x250/ec4899/ffffff?text=Task+Manager',
-      technologies: ['React', 'JavaScript', 'LocalStorage'],
-      github: 'https://github.com/yourusername/task-manager',
-      demo: 'https://your-task-manager.com'
+      demo: 'https://spontaneous-dodol-a8bbe5.netlify.app/'
     },
     {
       title: 'Portfolio Website',
       description: 'A personal portfolio website showcasing my projects and skills.',
-      image: 'https://image2url.com/r2/default/images/1772232349329-ae66e4c7-3738-41c9-bf39-9f43e09016e4.jpg',
+      image: 'https://i.postimg.cc/13YkRDt3/image.png',
       technologies: ['React', 'Vite', 'CSS'],
-      github: 'https://github.com/yourusername/portfolio',
-      demo: 'https://69a21df651acc4152d458ca9--amazing-druid-525cf4.netlify.app/'
+      github: 'https://github.com/TodorLambrev19/MY-PORTFOLIO.git',
+      demo: 'https://amazing-druid-525cf4.netlify.app/'
     }
   ];
 
