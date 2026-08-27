@@ -9,7 +9,9 @@ const About = () => {
     { name: 'React', level: 80, icon: <Code2 size={24} /> },
     { name: 'Tailwind CSS', level: 85, icon: <Palette size={24} /> },
     { name: 'Git/GitHub', level: 75, icon: <GitBranch size={24} /> },
-    { name: 'Responsive Design', level: 90, icon: <Palette size={24} /> }
+    { name: 'Responsive Design', level: 90, icon: <Palette size={24} /> },
+    { name: 'Node.js', level: 40, icon: <Code2 size={24} /> },
+    { name: 'TypeScript', level: 40, icon: <Code2 size={24} /> }
   ];
 
   return (
